@@ -1,5 +1,5 @@
 # Data Cleaning Script
-
+![datacleaning](datacleaning.jpg)
 ## Overview
 
 This project is a data cleaning tool that processes CSV data, specifically removing invalid entries, cleaning up fields, and identifying invalid rows. The script reads data in chunks, cleans each chunk, and saves both cleaned data and garbage data (removed rows) for review. The project is designed to process large CSV files efficiently by dividing them into smaller chunks and handling invalid data, especially focusing on cleaning emails and essential fields.
