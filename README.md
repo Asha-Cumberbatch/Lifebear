@@ -79,3 +79,7 @@ python data_cleaning_script.py
 - The chunk size is determined automatically based on the total number of rows in the CSV file and the number of chunks (`num_chunks`) you define.
 - The script assumes that the CSV file uses a semicolon (`;`) as a delimiter. Adjust the delimiter if necessary.
 - The email validation is simplified to focus on general formatting. Additional validation can be implemented if needed.
+
+
+## Credits
+- Asha Cumberbatch
